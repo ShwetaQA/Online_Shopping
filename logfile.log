@@ -1,0 +1,210 @@
+2016-10-27 11:23:58,615 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:23:58,615 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:23:58,615 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-27 11:23:58,615 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:23:58,615 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:23:59,021 INFO  [Log] Excel sheet opened 
+2016-10-27 11:23:59,021 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-10-27 11:23:59,083 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2016-10-27 11:23:59,083 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-10-27 11:23:59,193 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-10-27 11:23:59,193 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-27 11:23:59,193 INFO  [Log] X 
+2016-10-27 11:23:59,193 INFO  [Log] X 
+2016-10-27 11:23:59,193 INFO  [Log] X 
+2016-10-27 11:23:59,193 INFO  [Log] X 
+2016-10-27 11:23:59,208 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:23:59,208 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:23:59,208 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-27 11:23:59,208 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:23:59,208 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:23:59,240 INFO  [Log] Excel sheet opened 
+2016-10-27 11:23:59,240 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-10-27 11:23:59,255 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2016-10-27 11:23:59,255 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-10-27 11:23:59,271 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-10-27 11:23:59,271 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-27 11:23:59,271 INFO  [Log] X 
+2016-10-27 11:23:59,271 INFO  [Log] X 
+2016-10-27 11:23:59,271 INFO  [Log] X 
+2016-10-27 11:23:59,271 INFO  [Log] X 
+2016-10-27 11:25:10,533 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:25:10,533 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:25:10,533 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-27 11:25:10,533 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:25:10,533 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:25:10,923 INFO  [Log] Excel sheet opened 
+2016-10-27 11:25:10,923 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-10-27 11:25:10,986 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2016-10-27 11:25:10,986 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-10-27 11:25:11,095 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-10-27 11:25:11,095 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-27 11:25:11,095 INFO  [Log] X 
+2016-10-27 11:25:11,095 INFO  [Log] X 
+2016-10-27 11:25:11,095 INFO  [Log] X 
+2016-10-27 11:25:11,095 INFO  [Log] X 
+2016-10-27 11:26:34,852 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:26:34,852 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:26:34,852 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-27 11:26:34,852 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:26:34,852 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:26:35,243 INFO  [Log] Excel sheet opened 
+2016-10-27 11:26:35,243 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-10-27 11:26:35,305 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2016-10-27 11:26:35,321 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-10-27 11:26:35,414 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-10-27 11:26:35,414 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-27 11:26:35,414 INFO  [Log] X 
+2016-10-27 11:26:35,430 INFO  [Log] X 
+2016-10-27 11:26:35,430 INFO  [Log] X 
+2016-10-27 11:26:35,430 INFO  [Log] X 
+2016-10-27 11:26:35,430 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:26:35,430 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:26:35,430 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-27 11:26:35,430 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:26:35,430 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:26:35,461 INFO  [Log] Excel sheet opened 
+2016-10-27 11:26:35,461 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-10-27 11:26:35,477 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2016-10-27 11:26:35,477 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-10-27 11:26:35,493 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-10-27 11:26:35,493 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-27 11:26:35,493 INFO  [Log] X 
+2016-10-27 11:26:35,493 INFO  [Log] X 
+2016-10-27 11:26:35,493 INFO  [Log] X 
+2016-10-27 11:26:35,493 INFO  [Log] X 
+2016-10-27 11:28:22,221 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:28:22,221 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:28:22,221 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-27 11:28:22,221 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:28:22,221 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:28:22,643 INFO  [Log] Excel sheet opened 
+2016-10-27 11:28:22,643 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-10-27 11:28:22,690 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2016-10-27 11:28:22,706 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-10-27 11:28:22,800 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-10-27 11:28:22,800 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-27 11:28:22,800 INFO  [Log] X 
+2016-10-27 11:28:22,800 INFO  [Log] X 
+2016-10-27 11:28:22,800 INFO  [Log] X 
+2016-10-27 11:28:22,800 INFO  [Log] X 
+2016-10-27 11:58:22,617 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:58:22,617 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:58:22,617 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-27 11:58:22,617 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:58:22,632 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:58:23,007 INFO  [Log] Excel sheet opened 
+2016-10-27 11:58:23,007 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-10-27 11:58:23,070 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2016-10-27 11:58:23,117 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-10-27 11:58:23,211 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-10-27 11:58:23,226 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-27 11:58:23,226 INFO  [Log] X 
+2016-10-27 11:58:23,226 INFO  [Log] X 
+2016-10-27 11:58:23,226 INFO  [Log] X 
+2016-10-27 11:58:23,226 INFO  [Log] X 
+2016-10-27 11:58:23,257 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:58:23,257 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:58:23,257 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-27 11:58:23,257 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:58:23,257 INFO  [Log] **************************************************************************************** 
+2016-10-27 11:58:23,289 INFO  [Log] Excel sheet opened 
+2016-10-27 11:58:23,289 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-10-27 11:58:23,289 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2016-10-27 11:58:23,289 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-10-27 11:58:23,320 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-10-27 11:58:23,320 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-27 11:58:23,320 INFO  [Log] X 
+2016-10-27 11:58:23,320 INFO  [Log] X 
+2016-10-27 11:58:23,320 INFO  [Log] X 
+2016-10-27 11:58:23,320 INFO  [Log] X 
+2016-10-27 12:10:40,105 INFO  [Log] **************************************************************************************** 
+2016-10-27 12:10:40,105 INFO  [Log] **************************************************************************************** 
+2016-10-27 12:10:40,105 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-27 12:10:40,105 INFO  [Log] **************************************************************************************** 
+2016-10-27 12:10:40,105 INFO  [Log] **************************************************************************************** 
+2016-10-27 12:10:40,496 INFO  [Log] Excel sheet opened 
+2016-10-27 12:10:40,496 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-10-27 12:10:40,558 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2016-10-27 12:10:40,558 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-10-27 12:10:40,652 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-10-27 12:10:40,667 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-27 12:10:40,667 INFO  [Log] X 
+2016-10-27 12:10:40,667 INFO  [Log] X 
+2016-10-27 12:10:40,667 INFO  [Log] X 
+2016-10-27 12:10:40,667 INFO  [Log] X 
+2016-10-27 12:10:40,683 INFO  [Log] **************************************************************************************** 
+2016-10-27 12:10:40,683 INFO  [Log] **************************************************************************************** 
+2016-10-27 12:10:40,683 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-27 12:10:40,683 INFO  [Log] **************************************************************************************** 
+2016-10-27 12:10:40,683 INFO  [Log] **************************************************************************************** 
+2016-10-27 12:10:40,714 INFO  [Log] Excel sheet opened 
+2016-10-27 12:10:40,714 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-10-27 12:10:40,714 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2016-10-27 12:10:40,714 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-10-27 12:10:40,746 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-10-27 12:10:40,746 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-27 12:10:40,746 INFO  [Log] X 
+2016-10-27 12:10:40,746 INFO  [Log] X 
+2016-10-27 12:10:40,746 INFO  [Log] X 
+2016-10-27 12:10:40,746 INFO  [Log] X 
+2016-10-27 12:11:17,987 INFO  [Log] **************************************************************************************** 
+2016-10-27 12:11:17,987 INFO  [Log] **************************************************************************************** 
+2016-10-27 12:11:17,987 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-27 12:11:17,987 INFO  [Log] **************************************************************************************** 
+2016-10-27 12:11:17,987 INFO  [Log] **************************************************************************************** 
+2016-10-27 12:11:18,377 INFO  [Log] Excel sheet opened 
+2016-10-27 12:11:18,377 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-10-27 12:11:18,424 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2016-10-27 12:11:18,440 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-10-27 12:11:18,534 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-10-27 12:11:18,534 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-27 12:11:18,534 INFO  [Log] X 
+2016-10-27 12:11:18,534 INFO  [Log] X 
+2016-10-27 12:11:18,534 INFO  [Log] X 
+2016-10-27 12:11:18,534 INFO  [Log] X 
+2016-10-27 12:12:00,270 INFO  [Log] **************************************************************************************** 
+2016-10-27 12:12:00,270 INFO  [Log] **************************************************************************************** 
+2016-10-27 12:12:00,270 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-27 12:12:00,270 INFO  [Log] **************************************************************************************** 
+2016-10-27 12:12:00,270 INFO  [Log] **************************************************************************************** 
+2016-10-27 12:12:00,645 INFO  [Log] Excel sheet opened 
+2016-10-27 12:12:00,645 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-10-27 12:12:00,692 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2016-10-27 12:12:00,708 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-10-27 12:12:00,801 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-10-27 12:12:00,801 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-27 12:12:00,801 INFO  [Log] X 
+2016-10-27 12:12:00,817 INFO  [Log] X 
+2016-10-27 12:12:00,817 INFO  [Log] X 
+2016-10-27 12:12:00,817 INFO  [Log] X 
+2016-10-27 12:12:00,817 INFO  [Log] **************************************************************************************** 
+2016-10-27 12:12:00,817 INFO  [Log] **************************************************************************************** 
+2016-10-27 12:12:00,817 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-27 12:12:00,817 INFO  [Log] **************************************************************************************** 
+2016-10-27 12:12:00,817 INFO  [Log] **************************************************************************************** 
+2016-10-27 12:12:00,864 INFO  [Log] Excel sheet opened 
+2016-10-27 12:12:00,864 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-10-27 12:12:00,864 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2016-10-27 12:12:00,864 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-10-27 12:12:00,895 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-10-27 12:12:00,895 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-27 12:12:00,895 INFO  [Log] X 
+2016-10-27 12:12:00,895 INFO  [Log] X 
+2016-10-27 12:12:00,895 INFO  [Log] X 
+2016-10-27 12:12:00,895 INFO  [Log] X 
+2016-10-27 13:42:46,566 INFO  [Log] **************************************************************************************** 
+2016-10-27 13:42:46,566 INFO  [Log] **************************************************************************************** 
+2016-10-27 13:42:46,566 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-27 13:42:46,566 INFO  [Log] **************************************************************************************** 
+2016-10-27 13:42:46,566 INFO  [Log] **************************************************************************************** 
+2016-10-27 13:42:46,973 INFO  [Log] Excel sheet opened 
+2016-10-27 13:42:46,973 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-10-27 13:42:47,036 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2016-10-27 13:42:47,051 ERROR [Log] My Acocunt link is not found on the Home Page 
+2016-10-27 13:42:47,145 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2016-10-27 13:42:47,145 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-27 13:42:47,145 INFO  [Log] X 
+2016-10-27 13:42:47,145 INFO  [Log] X 
+2016-10-27 13:42:47,145 INFO  [Log] X 
+2016-10-27 13:42:47,145 INFO  [Log] X 
