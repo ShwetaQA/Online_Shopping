@@ -358,3 +358,72 @@ Session ID: fe4f0efe-35ff-4d53-be51-431aaca7bd04
 2016-10-27 17:34:06,631 INFO  [Log] X 
 2016-10-27 17:34:06,631 INFO  [Log] X 
 2016-10-27 17:34:06,631 INFO  [Log] X 
+2016-10-27 20:44:57,403 INFO  [Log] **************************************************************************************** 
+2016-10-27 20:44:57,417 INFO  [Log] **************************************************************************************** 
+2016-10-27 20:44:57,417 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-27 20:44:57,417 INFO  [Log] **************************************************************************************** 
+2016-10-27 20:44:57,417 INFO  [Log] **************************************************************************************** 
+2016-10-27 20:53:39,916 INFO  [Log] **************************************************************************************** 
+2016-10-27 20:53:39,917 INFO  [Log] **************************************************************************************** 
+2016-10-27 20:53:39,917 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-27 20:53:39,918 INFO  [Log] **************************************************************************************** 
+2016-10-27 20:53:39,918 INFO  [Log] **************************************************************************************** 
+2016-10-27 20:53:41,442 INFO  [Log] Excel sheet opened 
+2016-10-27 20:53:41,442 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-10-27 20:54:03,309 INFO  [Log] New driver instantiated 
+2016-10-27 20:54:04,917 INFO  [Log] Implicit wait applied on the driver for 40 seconds 
+2016-10-27 20:54:19,877 INFO  [Log] Web application launched successfully 
+2016-10-27 20:54:20,257 INFO  [Log] My Account link is found on the Home Page 
+2016-10-27 20:54:20,635 INFO  [Log] Click action is perfromed on My Account link 
+2016-10-27 20:54:22,381 INFO  [Log] Username text box is found on the Login Page 
+2016-10-27 20:54:23,052 INFO  [Log] testuser_1 is entered in UserName text box 
+2016-10-27 20:54:23,256 INFO  [Log] Password text box is found on the Login page 
+2016-10-27 20:54:23,370 INFO  [Log] Test@123 is entered in Password text box 
+2016-10-27 20:54:23,512 INFO  [Log] Submit button is found on the Login page 
+2016-10-27 20:54:24,535 INFO  [Log] Click action is performed on Submit button 
+2016-10-27 20:55:04,778 ERROR [Log] Log Out link is not found on the Home Page 
+2016-10-27 20:55:05,570 ERROR [Log] Unable to locate element: #account_logout
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'Shweta', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], profile=UEsDBBQACAgIALemW0kAAAAAAAAAAAAAAAAHAAAAdXNlci5qc51WTW/bMAy971cMOW3AKqTretlOXdcBA4Z1aFDsKMgSbauRJU0fcfPvR/mjSRNHbndKbJMS+fj4yOjBUeugfLconGnxiXhWQvdf6oo0TLXMAQHNCgVi8eFtyZSH91/exJ2nYAFtrHEhudTAVKj7Z4JGG8ln/DWE1rg1qUOwxNbS19uz9Nky788U6CrU6Pjx8vK52xiwAybwR0AAHkB8l86HK4yFK0C34OJhuKbBvB4pr51pgHrupA3URU2DbJLLxXL6osAKTxAOfauvlfEwnc1oLUyrlWEC79KsSsDWpv1Tg14hWgmpaXeLQdng02W0MYKpGexhE4xRnoBzxnGjvVH7cB+n72WljUbUGmgKcKvu0edz8eC9RKtgkAsOfETcSgyUcsd8nfdVUq+JsaApPAZwmqlUzFczqExlvYt6+rIWCuHkBp8Z54DljBoz90gHysEFP4nEU6Wkt4ptQdycL1e/DDInlfbTtDG+Erf6j9RYX3++JBIvMvd3P9FjwQoTw+dCMb1eHHOuT4gypeiDRzBSnLKH/ji2RysRbrQlbS0DKOkDHvA3SneKCYkGaxnI0E0j6zC5xIUsAIphYbAB8lTzibfRkhq7xuLZtAXFUwdFl0q6OEg5VVt3rCHRYoGBaIS23N6jyat1JNrUSjfZ8IBHJ8MWmaIA/xEfnOSBGicrqak1SvJtnqoaWmw7MuSTqeazQPuTSXq5ikUju1b53b286sj4Mt2cPCab8VN3DoVJRUHLE+q160NMs+34e9yIpizRDs6YtZ4g+0xLiy0VULKowrScjLBzbwf+TEd7zIcs20Y6I/dRqYLbkl4ZO/uPc7bZo0dEbu5/XpELwnZFOk7vgW1YPyGyonpYirFH8jw6jtvBQzfEspf0NE3H5/PcQ5zFYL71SrDiSIIkOufLUxran0o1C/hIYQN6RkH3JuMtMmw2nEIZvu407UWF8sAcrwfazE3dhvTkJiI2Nls0JPmLqPiMLwYBclJMC+qRBh2Kz8X05tOL9dnYfciiEGdG8mB7QlmGFWd+t9kbnL4b67vBiQoUO6nOIpeYNR3EXuuYftJ1K9APfd1vKSeXs2Fk0U6sBMKoK5rkf4YkNeC05DXw9bder772X14/zQgTQqaI2cwgmNyZ/3dXVqaq0sthictK/14vdRlfozRitxZSJfZpWdVBnRh2e67jjf+jbHRsBNLgWtgRcZFWSQcHGO02mbR5IrFxf5xZZXZ9r0ofbb8B7JaMf1BLBwh1hce1pQMAALUMAABQSwECFAAUAAgICAC3pltJdYXHtaUDAAC1DAAABwAAAAAAAAAAAAAAAAAAAAAAdXNlci5qc1BLBQYAAAAAAQABADUAAADaAwAAAAA=}, appBuildId=20160922113459, version=, platform=XP, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=6232, browserVersion=49.0.1, platformVersion=10.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=windows_nt, device=desktop}]
+Session ID: b107cca4-8822-4aa2-b6cf-e614a6d02720
+*** Element info: {Using=id, value=account_logout} 
+2016-10-27 20:55:05,656 INFO  [Log] **************************************************************************************** 
+2016-10-27 20:55:05,656 INFO  [Log] **************************************************************************************** 
+2016-10-27 20:55:05,656 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-27 20:55:05,656 INFO  [Log] **************************************************************************************** 
+2016-10-27 20:55:05,656 INFO  [Log] **************************************************************************************** 
+2016-10-27 20:55:05,732 INFO  [Log] Excel sheet opened 
+2016-10-27 20:55:05,732 INFO  [Log] Total number of Row used return as < 2 >. 
+2016-10-27 20:55:15,109 INFO  [Log] New driver instantiated 
+2016-10-27 20:55:15,290 INFO  [Log] Implicit wait applied on the driver for 40 seconds 
+2016-10-27 20:55:20,557 INFO  [Log] Web application launched successfully 
+2016-10-27 20:55:20,590 INFO  [Log] My Account link is found on the Home Page 
+2016-10-27 20:55:20,630 INFO  [Log] Click action is perfromed on My Account link 
+2016-10-27 20:55:21,955 INFO  [Log] Username text box is found on the Login Page 
+2016-10-27 20:55:22,156 INFO  [Log] testuser_1 is entered in UserName text box 
+2016-10-27 20:55:22,287 INFO  [Log] Password text box is found on the Login page 
+2016-10-27 20:55:22,350 INFO  [Log] Test@123 is entered in Password text box 
+2016-10-27 20:55:22,411 INFO  [Log] Submit button is found on the Login page 
+2016-10-27 20:55:23,250 INFO  [Log] Click action is performed on Submit button 
+2016-10-27 20:56:03,382 ERROR [Log] Log Out link is not found on the Home Page 
+2016-10-27 20:56:03,688 ERROR [Log] Unable to locate element: #account_logout
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'Shweta', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], profile=UEsDBBQACAgIAOOmW0kAAAAAAAAAAAAAAAAHAAAAdXNlci5qc51WTW/bMAy971cMOW3AKqTretlOXdcBA4Z1aFDsKMgSbauRJU0fcfPvR/mjSRNHbndKbJMS+fj4yOjBUeugfLconGnxiXhWQvdf6oo0TLXMAQHNCgVi8eFtyZSH91/exJ2nYAFtrHEhudTAVKj7Z4JGG8ln/DWE1rg1qUOwxNbS19uz9Nky788U6CrU6Pjx8vK52xiwAybwR0AAHkB8l86HK4yFK0C34OJhuKbBvB4pr51pgHrupA3URU2DbJLLxXL6osAKTxAOfauvlfEwnc1oLUyrlWEC79KsSsDWpv1Tg14hWgmpaXeLQdng02W0MYKpGexhE4xRnoBzxnGjvVH7cB+n72WljUbUGmgKcKvu0edz8eC9RKtgkAsOfETcSgyUcsd8nfdVUq+JsaApPAZwmqlUzFczqExlvYt6+rIWCuHkBp8Z54DljBoz90gHysEFP4nEU6Wkt4ptQdycL1e/DDInlfbTtDG+Erf6j9RYX3++JBIvMvd3P9FjwQoTw+dCMb1eHHOuT4gypeiDRzBSnLKH/ji2RysRbrQlbS0DKOkDHvA3SneKCYkGaxnI0E0j6zC5xIUsAIphYbAB8lTzibfRkhq7xuLZtAXFUwdFl0q6OEg5VVt3rCHRYoGBaIS23N6jyat1JNrUSjfZ8IBHJ8MWmaIA/xEfnOSBGicrqak1SvJtnqoaWmw7MuSTqeazQPuTSXq5ikUju1b53b286sj4Mt2cPCab8VN3DoVJRUHLE+q160NMs+34e9yIpizRDs6YtZ4g+0xLiy0VULKowrScjLBzbwf+TEd7zIcs20Y6I/dRqYLbkl4ZO/uPc7bZo0dEbu5/XpELwnZFOk7vgW1YPyGyonpYirFH8jw6jtvBQzfEspf0NE3H5/PcQ5zFYL71SrDiSIIkOufLUxran0o1C/hIYQN6RkH3JuMtMmw2nEIZvu407UWF8sAcrwfazE3dhvTkJiI2Nls0JPmLqPiMLwYBclJMC+qRBh2Kz8X05tOL9dnYfciiEGdG8mB7QlmGFWd+t9kbnL4b67vBiQoUO6nOIpeYNR3EXuuYftJ1K9APfd1vKSeXs2Fk0U6sBMKoK5rkf4YkNeC05DXw9bder772X14/zQgTQqaI2cwgmNyZ/3dXVqaq0sthictK/14vdRlfozRitxZSJfZpWdVBnRh2e67jjf+jbHRsBNLgWtgRcZFWSQcHGO02mbR5IrFxf5xZZXZ9r0ofbb8B7JaMf1BLBwh1hce1pQMAALUMAABQSwECFAAUAAgICADjpltJdYXHtaUDAAC1DAAABwAAAAAAAAAAAAAAAAAAAAAAdXNlci5qc1BLBQYAAAAAAQABADUAAADaAwAAAAA=}, appBuildId=20160922113459, version=, platform=XP, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=7208, browserVersion=49.0.1, platformVersion=10.0, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=windows_nt, device=desktop}]
+Session ID: ff2cf577-ec56-4900-aed6-31d07b0d9231
+*** Element info: {Using=id, value=account_logout} 
+2016-10-27 20:56:03,694 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-27 20:56:03,694 INFO  [Log] X 
+2016-10-27 20:56:03,694 INFO  [Log] X 
+2016-10-27 20:56:03,694 INFO  [Log] X 
+2016-10-27 20:56:03,694 INFO  [Log] X 
+2016-10-27 20:56:03,752 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-10-27 20:56:03,752 INFO  [Log] X 
+2016-10-27 20:56:03,752 INFO  [Log] X 
+2016-10-27 20:56:03,752 INFO  [Log] X 
+2016-10-27 20:56:03,752 INFO  [Log] X 

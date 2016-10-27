@@ -4,7 +4,7 @@ public class Constant {
 	    public static final String URL = "http://store.demoqa.com/";
 	    public static final String Username = "testuser_1";
 	    public static final String Password ="Test@123";
-		public static final String Path_TestData = "C://Selenium//Workspace//Online_shopping//src//main//java//ToolsQA//Online_shopping//testData//";
+		public static final String Path_TestData = "src//main//java//ToolsQA//Online_shopping//testData//";
 		public static final String File_TestData = "TestData.xlsx";
 		
 		//Test Data Sheet Columns
