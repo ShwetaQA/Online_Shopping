@@ -11,6 +11,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -21,10 +22,13 @@ public class Utils {
 		try{
 		sBrowserName = ExcelUtils.getCellData(iTestCaseRow, Constant.Col_Browser);
 		if(sBrowserName.equals("Mozilla")){
-			driver = new FirefoxDriver();
+			System.setProperty("webdriver.gecko.driver", System.getProperty("user.dir")+"//src//main//java//ToolsQA//Online_shopping//Resources//geckodriver.exe");
+			DesiredCapabilities capabilities = DesiredCapabilities.firefox();
+			capabilities.setCapability("marionette", true);
+			driver = new FirefoxDriver(capabilities);
 			Log.info("New driver instantiated");
-		    driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-		    Log.info("Implicit wait applied on the driver for 10 seconds");
+		    driver.manage().timeouts().implicitlyWait(40, TimeUnit.SECONDS);
+		    Log.info("Implicit wait applied on the driver for 40 seconds");
 		    driver.get(Constant.URL);
 		    Log.info("Web application launched successfully");
 			}

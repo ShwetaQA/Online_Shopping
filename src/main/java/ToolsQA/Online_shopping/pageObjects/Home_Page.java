@@ -18,7 +18,7 @@ import ToolsQA.Online_shopping.utility.Utils;
 	        	 element = driver.findElement(By.xpath(".//*[@id='account']/a"));
 	             Log.info("My Account link is found on the Home Page");
             }catch (Exception e){
-           		Log.error("My Acocunt link is not found on the Home Page");
+           		Log.error("My Account link is not found on the Home Page");
            		throw(e);
            		}
            	return element;

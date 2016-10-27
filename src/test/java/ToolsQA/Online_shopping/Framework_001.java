@@ -2,8 +2,10 @@ package ToolsQA.Online_shopping;
 
 import org.apache.log4j.xml.DOMConfigurator;
 import org.openqa.selenium.WebDriver;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
+//import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterTest;
+//import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 import ToolsQA.Online_shopping.appModules.CheckOut_Action;
@@ -27,7 +29,7 @@ public class Framework_001{
   // Following TestNg Test case pattern, and divided a Test case in to three different part.
   // In Before Method, your code will always be the same for every other test case.
   // In other way before method is your prerequisites of your main Test Case	
-  @BeforeMethod
+  @BeforeTest
   public void beforeMethod() throws Exception {
 	    // Configuring Log4j logs, please see the following posts to learn about Log4j Logging
 	    // http://www.toolsqa.com/test-case-with-log4j/
@@ -124,7 +126,7 @@ public class Framework_001{
   }
 		
   // Its time to close the finish the test case		
-  @AfterMethod
+  @AfterTest
   public void afterMethod() {
 	    // Printing beautiful logs to end the test case
 	    Log.endTestCase(sTestCaseName);
